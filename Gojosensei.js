@@ -3296,7 +3296,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 │「 مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
 ││✑「مـعـك بـوت غـوجـو سـاتـورو 👋🏻」◣
-││✑「مـن مـمـلـكـة هـانـتـر 🤗」◣
+││✑「مـن مـمـلـكـة جلوري 🤗」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
 │✙「 اسـم الـبـوت 」◣ : ${global.botname}
@@ -3352,7 +3352,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 │「 مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
 ││✑「مـعـك بـوت غـوجـو سـاتـورو 👋🏻」◣
-││✑「مـن مـمـلـكـة هـانـتـر 🤗」◣
+││✑「مـن مـمـلـكـة جلوري 🤗」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
 │✙「 اسـم الـبـوت 」◣ : ${global.botname}
